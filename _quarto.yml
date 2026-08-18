@@ -1,0 +1,51 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "Northeastern PEI Watershed Connectivity Restoration Plan "
+  author: "Canadian Wildlife Federation"
+  chapters:
+    - index.qmd
+    - content/project-overview.qmd
+    - content/glossary.qmd
+    - content/data-methods.qmd        
+    - content/connectivity-status.qmd
+    - content/work-planning.qmd
+    - content/progress-reporting.qmd
+    - content/references.qmd
+  appendices: 
+    - content/appendix-a.qmd
+    - content/appendix-b.qmd 
+  
+  sidebar: 
+    pinned: true
+    logo: images/logo.png
+    tools: 
+      - icon: save
+
+
+
+
+bibliography: references.bib
+# nocite: |
+#   @*
+
+format:
+  html:
+    toc: false
+    css: style.css
+    theme: cosmo
+    crossref:
+      fig-title: '**Figure**'
+      tbl-title: '**Table**'
+
+
+#jupyter: "local-venv"
+
+# execute:
+#   cache: true
+
+#titlepage-bg-image: images/spawn.jpg
+
+title-block-banner: "#f6f6f6"

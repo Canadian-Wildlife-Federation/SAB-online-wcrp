@@ -1,0 +1,338 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Cheticamp River Connectivity Restoration Plan: 2025 – 2035",
+    "section": "",
+    "text": "Project Overview",
+    "crumbs": [
+      "Project Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#purpose",
+    "href": "index.html#purpose",
+    "title": "Cheticamp River Connectivity Restoration Plan: 2025 – 2035",
+    "section": "Purpose",
+    "text": "Purpose\nThe purpose of the Chéticamp Watershed Connectivity Restoration Plan (WCRP) is to improve understanding of habitat connectivity for Atlantic Salmon (Salmo salar) in the Chéticamp watershed and inform efforts to close knowledge gaps and plan and prioritize restoration. Local data and knowledge are combined with connectivity modelling to estimate current connectivity status and identify structures that potentially block the most habitat. This informs the prioritization of field assessments to close the most significant knowledge gaps efficiently. Information from field assessments of barrier status and habitat condition are incorporated into the model, improving understanding of which barriers block the most habitat, and informing restoration prioritization. As knowledge gaps are closed and barriers are addressed, this plan will be revised to summarize progress and provide updated estimates of connectivity status and the status and relative importance of remaining structures.",
+    "crumbs": [
+      "Project Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#current-connectivity-status",
+    "href": "index.html#current-connectivity-status",
+    "title": "Cheticamp River Connectivity Restoration Plan: 2025 – 2035",
+    "section": "Current Connectivity Status",
+    "text": "Current Connectivity Status\nIn the Chéticamp watershed, 164.66 km of Atlantic Salmon habitat are currently connected to the ocean and 37.63 km are disconnected from it. This means that 81.4% of the 202.29 km of total habitat is connected.",
+    "crumbs": [
+      "Project Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#structure-count",
+    "href": "index.html#structure-count",
+    "title": "Cheticamp River Connectivity Restoration Plan: 2025 – 2035",
+    "section": "Structure Count",
+    "text": "Structure Count\nIn the Chéticamp watershed, 109 structures potentially disconnect Atlantic Salmon habitat. Of these, 22 require further field assessment to confirm the presence of salmon habitat upstream.\n\n\n\nFigure 1:Map of Atlantic Salmon habitat and structures that are confirmed or potential barriers to fish passage in the Chéticamp watershed as of May 2026, a) north and b) south of Fishing Cove. Structure data were obtained from the Canadian Aquatic Barriers Database (aquaticbarriers.ca). The accessibility model represents areas of the watershed that Atlantic Salmon could access naturally in the absence of anthropogenic barriers. The habitat model represents the subset of accessible waterbodies that may be used by Atlantic Salmon for spawning or rearing. Available local knowledge and data were incorporated and overruled habitat model results. Thick orange lines represent partially disconnected habitat (upstream of a partial barrier), and thick red lines represent habitat considered to be fully disconnected (upstream of barriers or unassessed structures).\n\n\n\n\n\n\nFigure 2: Habitat Accumulation Curve (HAC) showing structures in the Chéticamp watershed as of May 2026. Structures are ranked based on how much (km) weighted habitat for Atlantic Salmon is upstream. The y-axis represents the cumulative amount of potential habitat gain (km), down-weighted by 75% for first-order streams and 25% for second-order streams, and by passability (25%, 50%, or 75%) of partial barriers. Sets of structures are indicated by a grey line below the curve, indicating that gains from addressing the downstream structure alone would be less than the combined gains from addressing all structures in the set. Habitat upstream of unassessed structures is considered disconnected until field assessments are completed. Structures that were excluded as passable are not shown; however, rehabilitated barriers are shown to demonstrate the connectivity gains achieved through implementation of this plan.\n\n\nThis WCRP was initiated in 2025 in partnership between the Chéticamp River Salmon Association (CRSA) and the Canadian Wildlife Federation (CWF). In the development phase of this project, a tributary-by-tributary mapping exercise was conducted to gather local knowledge, and fish passage was assessed in the field at 36 sites, and this data were incorporated into the model.",
+    "crumbs": [
+      "Project Overview"
+    ]
+  },
+  {
+    "objectID": "content/project-overview.html",
+    "href": "content/project-overview.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "Purpose\nThe purpose of the Chéticamp Watershed Connectivity Restoration Plan (WCRP) is to improve understanding of habitat connectivity for Atlantic Salmon in the Chéticamp watershed and inform efforts to close knowledge gaps and plan and prioritize field assessments and restoration.\nLocal data and knowledge are combined with connectivity modelling to estimate current connectivity status and identify structures that potentially block the most habitat. This informs the prioritization of field assessments to close the most significant knowledge gaps efficiently. Information from field assessments of barrier status and habitat condition are incorporated into the model, improving understanding of which barriers block the most habitat.\nThis information is also used to inform and plan restoration efforts. Structure rankings inform restoration prioritization by summarizing what is known about fragmentation and showing the relative amount of habitat upstream of each barrier. Actual prioritization of restoration activities is a social decision that requires additional information, including the quality and condition of upstream habitat, the cultural importance of different areas within the watershed, and the costs and logistics of addressing each barrier relative to the ecological benefits of doing so.\nAs knowledge gaps are closed and barriers are addressed, this plan is revised to summarize progress and provide updated estimates of connectivity status and the status and relative importance of remaining structures.",
+    "crumbs": [
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "content/project-overview.html#scope",
+    "href": "content/project-overview.html#scope",
+    "title": "Introduction",
+    "section": "Scope",
+    "text": "Scope\nThis WCRP focuses on habitat connectivity for Atlantic Salmon in the Chéticamp watershed (Figure 3). Model outputs include an estimate of the current connectivity status along with structure ranks and counts.\nConnectivity models in this WCRP focus on longitudinal habitat fragmentation by anthropogenic structures, including all types of dams and stream crossings. Diffuse natural barriers that make entire areas impassible are not included in the models but may be used to define the scope of this WCRP. For example, a tributary that is inhospitable because of increased water temperature may be excluded from the overall spatial scope of the WCRP because restoration needs there are broader than connectivity.\n\n\n\nFigure 3: Map of the geographic scope of this connectivity restoration plan for Atlantic Salmon in the Chéticamp watershed in Cape Breton, Nova Scotia.",
+    "crumbs": [
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "content/glossary.html",
+    "href": "content/glossary.html",
+    "title": "Glossary",
+    "section": "",
+    "text": "General Terms",
+    "crumbs": [
+      "Glossary"
+    ]
+  },
+  {
+    "objectID": "content/glossary.html#general-terms",
+    "href": "content/glossary.html#general-terms",
+    "title": "Glossary",
+    "section": "",
+    "text": "Freshwater connectivity\nThe degree to which aquatic species can move, disperse, or migrate freely through freshwater systems.\n\n\nFocal Species or guilds\nthe ecologically and culturally important species or groups of species for which habitat connectivity is being conserved or restored.\n\n\nHabitat\nKey habitat that is likely to support important life stages for focal species (i.e., spawning and rearing), rather than simply movement corridors.\n\n\nStructure\nA feature, either anthropogenic (e.g., culvert, dam) or a temporary natural feature (e.g., barrier beach, debris jam) that may fragment freshwater systems and limit the ability of species to disperse and/or migrate freely within their naturally accessible habitat. Differentiated from more permanent natural features, such as waterfalls, that delineate naturally accessible waterbodies.\n\n\nSet of structures\nA set of two or more structures that must be addressed/considered together to achieve a combined increase in habitat connectivity.\n\n\nPartial Passability\nStructures that pass some individuals but not all. This includes structures that are passable only during certain seasons or flow conditions, structures that pass certain species or life stages but not others, or structures that only a subset of similar individuals typically pass.\n\n\nCurrent connectivity status\nThe measure (i.e., amount, proportion, or index) of habitat that is currently connected to the ocean for each focal species, assuming that all unassessed structures are barriers.\n\n\nRank\nThe relative importance of a structure (individually and/or in sets) based on the amount (km) of habitat blocked by it. For sets of structures, the total amount of habitat blocked by the set is averaged by the number of barriers in the set.",
+    "crumbs": [
+      "Glossary"
+    ]
+  },
+  {
+    "objectID": "content/glossary.html#structure-status-terms",
+    "href": "content/glossary.html#structure-status-terms",
+    "title": "Glossary",
+    "section": "Structure Status Terms",
+    "text": "Structure Status Terms\n\nUnassessed structures\nMapped structures that have not been assessed in the field.\n\n\nExcluded structures\nStructures that were investigated and removed from consideration or the model because they do not exist, are passable, or that no habitat was found upstream.\n\n\nData-deficient barriers\nStructures that have had some form of assessment but need further investigation before a decision can be made as to whether they will be listed as a priority or non-actionable.\n\n\nPriority barrier\nStructures that were assessed as barriers with habitat upstream, and for which fish-passage rehabilitation is being pursued.\n\n\nNon-actionable barriers\nStructures that were assessed as barriers with habitat upstream, but for which fish-passage rehabilitation is not being actively pursued.\n\n\nRehabilitated barriers\nBarriers that were removed, replaced, or modified to improve fish passage.",
+    "crumbs": [
+      "Glossary"
+    ]
+  },
+  {
+    "objectID": "content/data-methods.html",
+    "href": "content/data-methods.html",
+    "title": "Methods",
+    "section": "",
+    "text": "Accessibility model\nNaturally accessible waterbodies are those that would likely be accessible to focal species if no human-made barriers existed on the landscape. This is treated as a proxy baseline for the historic distribution. Naturally accessible waterbodies were identified based on natural barriers (i.e., waterfalls &gt; 5m and stream gradients &gt; 30%) that would naturally limit upstream movement. Modelled natural barriers were excluded if focal species observations existed upstream of them.",
+    "crumbs": [
+      "Methods"
+    ]
+  },
+  {
+    "objectID": "content/data-methods.html#habitat-model",
+    "href": "content/data-methods.html#habitat-model",
+    "title": "Methods",
+    "section": "Habitat Model",
+    "text": "Habitat Model\nA subset of the naturally accessible waterbody layer that is defined as key habitat (e.g., habitat likely to support spawning or rearing) (henceforth habitat), rather than simply being used as a movement corridor. An intrinsic potential modelling approach was used to identify areas that have the potential to support spawning or rearing for Atlantic Salmon based on channel gradients &lt; 3% (Amiro 1993). Habitat model outputs are overruled by field data and local knowledge of habitat condition and use.",
+    "crumbs": [
+      "Methods"
+    ]
+  },
+  {
+    "objectID": "content/data-methods.html#connectivity-model",
+    "href": "content/data-methods.html#connectivity-model",
+    "title": "Methods",
+    "section": "Connectivity Model",
+    "text": "Connectivity Model\nThe overall model used to estimate connectivity status and rank structures. A layer of known or modelled structures was overlaid on the habitat model output. Modelled stream crossings were created from stream network and road/railway Geographic Information System (GIS) data, by mapping where a road or railway crosses a stream. Dam data were obtained from the Canadian Aquatic Barriers Database (aquaticbarriers.ca). All mapped dams and modelled crossings (henceforth structures) downstream of habitat were considered, but some were classified as non-existent or passable prior to initiating field work and excluded from the model. Stream crossings on 6th order and larger streams were assumed to be bridges and classified as passable, as were those identified as bridges in available infrastructure spatial layers. Remaining structures downstream of habitat were checked on Google Earth to exclude structures if it could be visibly confirmed that they did not exist or were bridges or cross-ditches. Data from previous field assessments were incorporated, and structures identified as passable were excluded. Assessed barriers, dams lacking fishways, and unassessed structures were all treated as barriers in the connectivity model. If barriers were presumed to be partially passable, the degree of passability was estimated (25%, 50%, or 75%), and the amount of habitat upstream of that barrier was downweighted according to the passability of all downstream barriers. For example, a 10-km habitat patch with two downstream partial barriers (both with 50% passability) would represent 2.5 km of weighted habitat.\nLocal knowledge and data were incorporated into model development in two phases and typically overruled modelled outputs where the two differed. Existing reports on habitat, barriers, and fish distributions, when available, were incorporated into the initial model outputs. Maps of initial outputs were then shared with local knowledge holders, who identified model errors or omissions (e.g., unmapped structures, mapped structures that do not exist, known spawning or rearing habitat that was not identified by the model, habitat identified by the model that is known to be inaccessible or unsuitable). The status of closed-bottom structures identified as passable by local knowledge may not have been adjusted until confirmed by field assessments.\nModels were run to produce initial connectivity outputs, and maps were created showing disconnected habitat and associated structures. Connectivity status was estimated by calculating the proportion of habitat that is connected to the ocean (i.e., not fragmented by human-made barriers). Habitat with no structures or only passable structures downstream was considered connected. Habitat amount was calculated in linear kilometers downweighted according to the passability of all downstream barriers and by stream order, with first-order streams downweighted by 75%, and second-order streams downweighted by 25%.",
+    "crumbs": [
+      "Methods"
+    ]
+  },
+  {
+    "objectID": "content/data-methods.html#structure-ranking",
+    "href": "content/data-methods.html#structure-ranking",
+    "title": "Methods",
+    "section": "Structure Ranking",
+    "text": "Structure Ranking\nStructures were ranked by the amount of weighted habitat upstream, with the highest ranked structure given a rank of 1. Unassessed structures were considered barriers for ranking purposes. Ranks generally represent the relative amount of habitat upstream. Actual ranking processes are more complex to account for situations where multiple barriers may need to be addressed to reconnect habitat. Barriers with the most upstream habitat may not provide any benefits to focal species until downstream barriers are addressed.\nTo manage this, both the overall habitat upstream, and immediate gains (i.e., the amount of habitat to the next structure) are incorporated into the ranking process. This ensures that the first structure encountered by fish is given a high rank, even if, for example, it only blocks only 1 km of habitat. Conversely, a structure blocking 20 km of habitat may be given a lower rank if many downstream structures must be addressed before those gains can be realized.\nStructures are also combined into sets by considering which configuration of groups of up to five structures provides the greatest per-barrier habitat gain. Sets are often identified sequentially by first identifying optimal downstream set configurations, then considering additional upstream sets.\nStream order is also factored into the ranking process, to avoid overvaluing structures where most of the upstream habitat comprises small streams with more limited habitat value. First-order streams are downweighted by 75%, and second-order streams are downweighted by 25%.",
+    "crumbs": [
+      "Methods"
+    ]
+  },
+  {
+    "objectID": "content/connectivity-status.html",
+    "href": "content/connectivity-status.html",
+    "title": "Connectivity Status Results",
+    "section": "",
+    "text": "Current Connectivity Status\nIn the Cheticamp watershed, 164.66 km of Atlantic Salmon habitat are currently connected to the ocean and 37.63 km are disconnected from it. This means that 81.4% of the 202.29 km of total habitat is connected.",
+    "crumbs": [
+      "Connectivity Status Results"
+    ]
+  },
+  {
+    "objectID": "content/connectivity-status.html#structure-count",
+    "href": "content/connectivity-status.html#structure-count",
+    "title": "Connectivity Status Results",
+    "section": "Structure Count",
+    "text": "Structure Count\nIn the Cheticamp watershed, 109 structures potentially disconnect Atlantic Salmon habitat. Of these, 22 require further field assessment to confirm the presence of salmon habitat upstream.",
+    "crumbs": [
+      "Connectivity Status Results"
+    ]
+  },
+  {
+    "objectID": "content/connectivity-status.html#map",
+    "href": "content/connectivity-status.html#map",
+    "title": "Connectivity Status Results",
+    "section": "Map",
+    "text": "Map\n\n\n\nFigure 1:Map of Atlantic Salmon habitat and structures that are confirmed or potential barriers to fish passage in the Cheticamp watershed as of May 2026, a) north and b) south of Fishing Cove. Structure data were obtained from the Canadian Aquatic Barriers Database (aquaticbarriers.ca). The accessibility model represents areas of the watershed that Atlantic Salmon could access naturally in the absence of anthropogenic barriers. The habitat model represents the subset of accessible waterbodies that may be used by Atlantic Salmon for spawning or rearing. Available local knowledge and data were incorporated and overruled habitat model results. Thick orange lines represent partially disconnected habitat (upstream of a partial barrier), and thick red lines represent habitat considered to be fully disconnected (upstream of barriers or unassessed structures).",
+    "crumbs": [
+      "Connectivity Status Results"
+    ]
+  },
+  {
+    "objectID": "content/connectivity-status.html#habitat-accumulation-curves",
+    "href": "content/connectivity-status.html#habitat-accumulation-curves",
+    "title": "Connectivity Status Results",
+    "section": "Habitat Accumulation Curves",
+    "text": "Habitat Accumulation Curves\n\n\n\nFigure 2: Habitat Accumulation Curve (HAC) showing structures in the Cheticamp watershed as of May 2026. Structures are ranked based on how much (km) weighted habitat for Atlantic Salmon is upstream. The y-axis represents the cumulative amount of potential habitat gain (km), down-weighted by 75% for first-order streams and 25% for second-order streams, and by passability (25%, 50%, or 75%) of partial barriers. Sets of structures are indicated by a grey line below the curve, indicating that gains from addressing the downstream structure alone would be less than the combined gains from addressing all structures in the set. Habitat upstream of unassessed structures is considered disconnected until field assessments are completed. Structures that were excluded as passable are not shown; however, rehabilitated barriers are shown to demonstrate the connectivity gains achieved through implementation of this plan.",
+    "crumbs": [
+      "Connectivity Status Results"
+    ]
+  },
+  {
+    "objectID": "content/connectivity-status.html#habitat-accumulation-summary-table",
+    "href": "content/connectivity-status.html#habitat-accumulation-summary-table",
+    "title": "Connectivity Status Results",
+    "section": "Habitat Accumulation Summary Table",
+    "text": "Habitat Accumulation Summary Table\n\n\nTable 1. Labelled structures in the Habitat Accumulation Curve\n(Figure 2), their rank, and weighted upstream habitat for Atlantic\nSalmon in Cheticamp watershed. Habitat gain (averaged across sets)\nrepresents the amount (km) of weighted habitat upstream of that\nstructure to the next structure and depicts the potential gain in\nhabitat if passage at that structure was restored.Barrier IDSite NameStructure StatusStructure Count Ordered by Model RankAverage Weighted Habitat Upstream of StructureActual Weighted Habitat Upstream of Structure7483724c-e5ef-46cf-9db3-fee0da2fb1abFishing Cove River at Unnamed TrailUnassessed Structure19.619.613480e530-2f95-4f67-b2e5-0783181f9b53Fiset Brook trib at Cheticamp Back Road 2Data-deficient barrier212.0912.0945b20998-83ff-4a52-99d0-968f5578d4e8South Fishing Cover River at Unnamed TrailUnassessed Structure315.1615.1657d13cfd-0afa-4387-92ad-93f23ecb9fc1Petit Etang Pond BeachUnassessed Structure416.3216.322da131b1-4a52-419d-bce4-5380622c3dc3US Petit Etang Pond at LeBlanc RoadData-deficient barrier517.2116.69c27363e9-68ed-46f1-bca3-63a24fa0227dUS Petit Etang Pond at Unknown RdUnassessed Structure618.1017.714ceb436f-c25b-4a58-980b-0278cd2dfc81US Petit Etang Pond through Golf CourseUnassessed Structure718.9918.991adceeb4-a2cc-4176-9b49-8281a26cd732US Cheticamp Harbour trib at Unnamed Rd 1Unassessed Structure819.8419.42edd8b06b-dfbe-489b-8e4a-f14a9730c4d2US Cheticamp Harbour trib at Unnamed Rd 2Unassessed Structure920.6920.673eeee526-8247-497b-845c-db6092014cfaUS Cheticamp Harbour trib at Unnamed Rd 3Unassessed Structure1021.5421.54bad0302e-cae4-4d36-aa16-3c717e863344Wreck Cove Brook at Meat Cove RdUnassessed Structure1122.8622.86b1f4b901-4586-4e79-a314-dc2d0f581530Unnamed Ponds at Cabot TrailData-deficient barrier1223.5923.59701ea27f-8ae1-4b46-a39e-e2b3c52317adUS Redman Basin Brook 3 at Unnamed RdUnassessed Structure1324.2924.29ad3b1412-5bdb-43d9-a2e9-774a559bae2bUnnamed Brook 1 BeachUnassessed Structure1424.5624.29761883fe-73d0-4ca1-8321-ee25b7849aa9Unnamed Brook 1 US Beach off Chemin de la Petite PrairieData-deficient barrier1524.8324.64ff903ed4-66e8-4588-91d7-f8b99dd7948dUnnamed Brook 1 at Cabot Trail 4Unassessed Structure1625.1024.68862f90e1-4470-41c2-a043-031028a3cbe4Unnamed Brook 1 US Beach at Private RdUnassessed Structure1725.3725.37fef674f9-e443-4e80-a424-aa0386388d79US Deadmans Pond trib at Fraser RdUnassessed Structure1825.7925.48617ccc0b-1821-473b-832f-f3b4b5e97545US Deadmans Pond trib off MacDonald RdUnassessed Structure1926.2225.93fc7de390-73d2-4dcb-9d21-b0c045f2ef72US Deadmans Pond trib at Unnamed RdUnassessed Structure2026.6526.576a136386-d5bf-4190-8a35-c5bbb421e094US Deadmans Pond trib at Meat Cove RdUnassessed Structure2127.0827.08152e240f-31c7-4c4e-bd00-8ab84b083db5Farm Brook at Driveway 3Data-deficient barrier2227.3227.31e732b823-2cf0-44a1-8c6c-f9877a7efdc0Farm Brook at Driveway 2Data-deficient barrier2327.5727.43c1668d56-4d9c-4d43-b291-850ef9cbcde9Farm Brook at Unnamed Track 3Data-deficient barrier2427.8227.527f6f853b-0d19-446f-af3d-94e9a54f9f19Farm Brook at Unnamed Track 2Unassessed Structure2528.0628.06f0adc328-dacc-45f6-9b89-c461f660dfcaRigwash Brook at Unnamed RoadData-deficient barrier2628.5928.598b97c9bb-d9cb-4430-82b2-57c82530e500US Cheticamp Beach at Unknown TrailData-deficient barrier2728.8028.794ff36c22-0fd9-453e-89b5-cf5b5d4968a0US Cheticamp Beach at Cheticamp Island Road 2Data-deficient barrier2829.0029.00573538fc-40ad-4083-8b5f-6cdafbea08e8US Deadmans Pond Brook 2 at Bay St LawrenceUnassessed Structure2929.4429.449241b2d1-0a2c-4957-b67c-7a721c016493Unnamed Brook at Bashure RoadData-deficient barrier3029.7029.70d8858d67-2f5f-440d-80a1-1bf7864347c1US Anse à Petit Homme at Chemin HacheData-deficient barrier3129.8529.7087fcd075-a2c0-46c8-a7d4-bd654f1a928dUS Anse à Petit Homme at Cabot TrailData-deficient barrier3230.0129.87db9a7b4c-b8ff-4a3a-b83b-7f32a331a8eeUS Anse à Petit Homme at Driveway 2Data-deficient barrier3330.1729.88caa9000a-1a62-45b0-a090-e486aca27d44US Anse à Petit Homme at Redman RoadData-deficient barrier3430.3229.91d77f6b5f-75db-4769-b13a-044f685a9848US Anse à Petit Homme at Old Redman RdUnassessed Structure3530.4830.120c80ccd3-cbfb-4981-9ff2-173f647f09c6US Anse à Petit Homme at Larade LaneUnassessed Structure3630.6330.631b32145d-64f9-4f5d-ae45-79255cc92281US Redman Basin Brook 2 at Cheticamp Back RdUnassessed Structure3730.8030.630433feca-bbc4-4f18-8b0f-d953d694910dUS Redman Basin Brook 2 at Mountain RdUnassessed Structure3830.9630.72b746c107-112e-4302-b07b-f67afc39afecUS Redman Basin Brook 2 at Felix RdUnassessed Structure3931.1331.1339aa7f0e-8eb9-4883-9d39-41a673aa882eUS Redman Basin Brook 1 at Cheticamp Back Road 5Data-deficient barrier4031.3531.35d75f523e-7967-426e-bb7c-e5be332d2d14Ruisseau du Lac trib at Unnamed TrackUnassessed Structure4131.5331.53bff0d0c0-0179-44d2-9d7c-60c7aee90f82",
+    "crumbs": [
+      "Connectivity Status Results"
+    ]
+  },
+  {
+    "objectID": "content/work-planning.html",
+    "href": "content/work-planning.html",
+    "title": "Work Planning",
+    "section": "",
+    "text": "Structure Ranking Context\nStructures are primarily ranked to inform field-assessment planning. Higher ranked structures have greater potential contributions toward habitat connectivity restoration and are therefore typically higher priorities for field assessment. They also represent key knowledge gaps with potential to significantly affect model results. Estimates of current connectivity status could improve considerably, for instance, if many high-ranking structures are passable or do not have habitat upstream. Habitat accumulation curves support decision-making around how many and which structures should be assessed, by showing which structures may only minimally affect connectivity. High-ranked structures with minimal habitat upstream may be located low on these curves, because they must be addressed before benefits can be achieved by addressing lower ranked barriers with more upstream habitat.\nIf confirmed as barriers, high-ranking structures are also often priorities for further field assessments to confirm upstream habitat before decisions are made about where fish passage should be rehabilitated.\nOnce field assessments are completed, management decisions are made for each assessed structure. An assessed structure may be excluded from the model if it is passable or there is no habitat upstream, or it may be listed as a priority barrier for fish-passage rehabilitation. Alternatively, some structures confirmed as barriers may be considered “non-actionable” because the amount and quality of habitat upstream may be low and the costs of rehabilitation may be high relative to those limited potential benefits.\nModel ranks provide only limited information on the relative value of rehabilitation among priority barriers. Ranks convey only the relative amount of habitat upstream and do not represent other factors relevant to restoration prioritization, such as habitat quality, cost, social priorities, or logistical constraints and opportunities. Deciding which priority barriers to address first is a social-decision making process that is only partially informed by model output. Model outputs also provide broader context about how many structures exist in the system, how many have been identified as priority barriers, and how much habitat is upstream of each relative to others.",
+    "crumbs": [
+      "Work Planning"
+    ]
+  },
+  {
+    "objectID": "content/work-planning.html#workplan",
+    "href": "content/work-planning.html#workplan",
+    "title": "Work Planning",
+    "section": "Workplan",
+    "text": "Workplan\n\nTable 2. Implementation plan for 2026-27 to close knowledge gaps and\nadvance barrier rehabilitation to improve connectivity for Atlantic\nSalmon in the Cheticamp watershed. Steps to incorporate field data,\nupdate models, and revise this WCRP are also included.ActionLeadSupportReview 2025-2026 model outputs (top-ranked structures) and draft a field plan CRSACWF, ASF, NSSAComplete in-depth habitat confirmations for top-ranked data-deficient barriersCRSANSSAAssess up to 25 unassessed structuresCRSANSSAReview field results and determine next steps for assessed structuresCRSACWF, ASF, NSSAUpdate connectivity models according to 2026 passage and habitat assessmentsCWFUpdate written components of WCRPCWFCRSA",
+    "crumbs": [
+      "Work Planning"
+    ]
+  },
+  {
+    "objectID": "content/progress-reporting.html",
+    "href": "content/progress-reporting.html",
+    "title": "Progress Reporting",
+    "section": "",
+    "text": "Progress Summary\nThis WCRP was initiated in 2025 in partnership between the Chéticamp River Salmon Association (CRSA) and the Canadian Wildlife Federation (CWF). In the development phase of this project, a tributary-by-tributary mapping exercise was conducted to gather local knowledge, and fish passage was assessed in the field at 36 sites, and this data were incorporated into the model.",
+    "crumbs": [
+      "Progress Reporting"
+    ]
+  },
+  {
+    "objectID": "content/progress-reporting.html#rehabilitated-barriers",
+    "href": "content/progress-reporting.html#rehabilitated-barriers",
+    "title": "Progress Reporting",
+    "section": "Rehabilitated Barriers",
+    "text": "Rehabilitated Barriers\nNo confirmed barriers identified in the WCRP have been rehabilitated as of 2026.",
+    "crumbs": [
+      "Progress Reporting"
+    ]
+  },
+  {
+    "objectID": "content/progress-reporting.html#annual-progress-report",
+    "href": "content/progress-reporting.html#annual-progress-report",
+    "title": "Progress Reporting",
+    "section": "Annual Progress Report",
+    "text": "Annual Progress Report\nSince March 2025 the following actions were completed:\n\nInformal barrier assessments were completed for 36 structures, resulting in 22 structures confirmed as barriers and 14 structures excluded as passable or non-existent, or because there was no upstream habitat.\nTwo tributary by tributary mapping workshops were held August 2025 and 88 sticky notes worth of local knowledge were collected, resulting in 3 changes to Atlantic Salmon habitat and 40 changes related to barriers and accessibility.\nThe habitat, accessibility, and connectivity models were updated based on the above actions, and outputs were incorporated into this WCRP.",
+    "crumbs": [
+      "Progress Reporting"
+    ]
+  },
+  {
+    "objectID": "content/progress-reporting.html#priority-barriers",
+    "href": "content/progress-reporting.html#priority-barriers",
+    "title": "Progress Reporting",
+    "section": "Priority Barriers",
+    "text": "Priority Barriers\nNo priority barriers were identified through the implementation of this WCRP as of 2026.",
+    "crumbs": [
+      "Progress Reporting"
+    ]
+  },
+  {
+    "objectID": "content/references.html",
+    "href": "content/references.html",
+    "title": "Acknowledgements and References",
+    "section": "",
+    "text": "Recommended Citation\nBaker, J., L. Kordsmeyer, N. Mazany-Wright, F. Montgomery, B. Rebellato, and N. W. R. Lapointe. 2026. Chéticamp watershed connectivity restoration plan. Canadian Wildlife Federation. Ottawa, Ontario, Canada.",
+    "crumbs": [
+      "Acknowledgements and References"
+    ]
+  },
+  {
+    "objectID": "content/references.html#acknowledgements",
+    "href": "content/references.html#acknowledgements",
+    "title": "Acknowledgements and References",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nThe Chéticamp Salmon Association and Canadian Wildlife Federation recognizes that the lands and waters that form the basis of this plan are the traditional unceded territory of the Mi’kmaq peoples. Plan development and implementation were funded by the Atlantic Salmon Federation’s Wild Salmon Watershed program. Members of the planning team (Appendix B) are passionate about the conservation and restoration of freshwater ecosystems and the species they support, and contributed feedback, guidance, and knowledge. Model outputs were further refined based on feedback provided by local knowledge holders beyond the planning team. Accessibility models were inspired by fish-passage prioritization approaches developed by British Columbia’s Fish Passage Technical Working Group.",
+    "crumbs": [
+      "Acknowledgements and References"
+    ]
+  },
+  {
+    "objectID": "content/references.html#references",
+    "href": "content/references.html#references",
+    "title": "Acknowledgements and References",
+    "section": "References",
+    "text": "References\nAmiro, P. G. (1993). Habitat measurement and population estimation of juvenile Atlantic salmon (Salmo salar) (Canadian Special Publication of Fisheries and Aquatic Sciences No. 118). Department of Fisheries and Oceans.",
+    "crumbs": [
+      "Acknowledgements and References"
+    ]
+  },
+  {
+    "objectID": "content/appendix-a.html",
+    "href": "content/appendix-a.html",
+    "title": "Appendix A - Structure List Status",
+    "section": "",
+    "text": "Non-actionable Barriers\nThere are no confirmed barriers determined to be non-actionable through this WCRP as of May 2026.",
+    "crumbs": [
+      "Appendices",
+      "Appendix A - Structure List Status"
+    ]
+  },
+  {
+    "objectID": "content/appendix-a.html#data-deficient-barriers",
+    "href": "content/appendix-a.html#data-deficient-barriers",
+    "title": "Appendix A - Structure List Status",
+    "section": "Data-deficient Barriers",
+    "text": "Data-deficient Barriers\n\nTable 3. Structures in Cheticamp watershed that have been assessed\nfor fish passage for Atlantic Salmon as of May 2026, but either require\nan additional in-depth fish-passage assessment to confirm the\npassability status or a habitat assessment to confirm upstream habitat\nis present.Barrier IDSite NameStructure TypeAssessment Step CompletedNext StepNotese732b823-2cf0-44a1-8c6c-f9877a7efdc0Farm Brook at Driveway 2Stream crossing - CBSInformal assessmentHabitat confirmation (data deficient structures only)2x  Plastic (corrugated annular), platform to cross downstream from culvert(see picture) approx. 30 meter, Inlet has drop smaller than 15cm(see picture), Seasonally Fish Passage, low flow during site visit152e240f-31c7-4c4e-bd00-8ab84b083db5Farm Brook at Driveway 3Stream crossing - CBSInformal assessmentHabitat confirmation (data deficient structures only)Metal (corrugated annular),  culvert is in a wetland could not determine the inlet, culvert appeared to have collapsed, never fish passage, Landowner upstream stated that this culvert is impacting his property upstream as wellc1668d56-4d9c-4d43-b291-850ef9cbcde9Farm Brook at Unnamed Track 3Stream crossing - CBSInformal assessmentHabitat confirmation (data deficient structures only)Round PVC culvert, located in wetland, low flow due to drought, even after rain this morning, seasonally fish passage3480e530-2f95-4f67-b2e5-0783181f9b53Fiset Brook trib at Cheticamp Back Road 2Stream crossing - CBSInformal assessmentHabitat confirmation (data deficient structures only)low water conditions, circular plastic culvert inside of metal culvert. incline in the middle of culvert, seasonal passage, metal mesh infront inlet (see picture)b1f4b901-4586-4e79-a314-dc2d0f581530Unnamed Ponds at Cabot TrailStream crossing - OBSInformal assessmentHabitat confirmation (data deficient structures only)Open bottom wooden box culvert, currently no water flow, both ends of the pond are blocked from the ocean, therefore no fish passage from ocean, passage between both ponds seasonal. Need to follow up to confirm whether the upstream ponds support salmon spawning/rearing and where they ultimately drain to the oceanf0adc328-dacc-45f6-9b89-c461f660dfcaRigwash Brook at Unnamed RoadStream crossing - CBSInformal assessmentHabitat confirmation (data deficient structures only)3 currogated circular metal culverts, culvert 1 filled in, culvert 2 has a drop at the outlet side→no passage, culvert 3 might be seasonally passage (see pictures), stream is completely dry738af6f1-26c4-404b-9b4a-acbbe10c5303Unnamed Brook at Brook Lane RoadStream crossing - CBSInformal assessmentHabitat confirmation (data deficient structures only)closed bottom metal culvert (corrugated spiral) , caved in, needs full replacement, no fish passage67d6a3f3-d1fc-49a5-908c-abca0ca214b3Unnamed Brook at Cabot Trail 12Stream crossing - CBSInformal assessmentHabitat confirmation (data deficient structures only)Closed-bottom Box Culvert, downstream side heavily shrubbed/forested, along with being slightly wetlandish, seasonally fish passage3e030c3f-1150-478e-b868-636313992203Unnamed Brook at Cabot Trail 3Stream crossing - CBSInformal assessmentHabitat confirmation (data deficient structures only)closed bottom box culvert, stream dry now, fish can possibly go up that incline from the shore(see picture), seasonal passage, culvert located on the cabot trail, also has an overflow culvert (see picture)761883fe-73d0-4ca1-8321-ee25b7849aa9Unnamed Brook 1 at Cabot Trail 4Stream crossing - CBSInformal assessmentHabitat confirmation (data deficient structures only)Close bottom concrete box culvert, no flow due to drought, seasonal fish passageb954a8fa-2cd8-40e8-a204-3140ecc2631aUnnamed Brook at Cabot Trail 9Stream crossing - CBSInformal assessmentHabitat confirmation (data deficient structures only)circular concrete culvert with baffels, stream dried up, seasonal passaged8858d67-2f5f-440d-80a1-1bf7864347c1US Anse  Petit at Chemin HacheStream crossing - CBSInformal assessmentHabitat confirmation (data deficient structures only)may be influenced by the tide, closed bottom concrete culverte729a5c4-6902-4382-9839-6df73b6c2aedUnnamed Brook at Cheticamp Back Road 3Stream crossing - CBSInformal assessmentHabitat confirmation (data deficient structures only)Round corrugated steel culvert, upstream wetland area, Fish Passage Seasonally46569502-22d4-4290-b4c8-0b4eb7278681Unnamed Brook at Cheticamp Back Road 4Stream crossing - CBSInformal assessmentHabitat confirmation (data deficient structures only)Seasonal Fish Passage, Low Flow Conditions, closed bottom round Concrete Culvert, wetland area up and downstream, low flow conditions05e8a2ea-287a-42fe-8c97-a2b941ea5190Unnamed Brook at Cheticamp Island RoadStream crossing - CBSInformal assessmentHabitat confirmation (data deficient structures only)Corrugated metal spiral culvert, could not determine the outlet but there is flow through it, looked through inlet and could see the outlet, wetland area upstream and downstream from culvert, fish passage is seasonally87fcd075-a2c0-46c8-a7d4-bd654f1a928dUS Anse  Petit Homme at Cabot TrailStream crossing - CBSInformal assessmentHabitat confirmation (data deficient structures only)culvert looks passable, but stream is redirected multiple ways and ineffective, round culvert underneath landowners lawn (see picture), open bottom culvert, never fish passagedb9a7b4c-b8ff-4a3a-b83b-7f32a331a8eeUS Anse  Petit Homme at Driveway 2Stream crossing - CBSInformal assessmentHabitat confirmation (data deficient structures only)dried up stream, circular PVC culvert, seasonal fish passagecaa9000a-1a62-45b0-a090-e486aca27d44US Anse  Petit Homme at Redman RoadStream crossing - CBSInformal assessmentHabitat confirmation (data deficient structures only)undersized,  damage on outlet side of Culvert, metal corrugated culvert, seasonal fish passage4ff36c22-0fd9-453e-89b5-cf5b5d4968a0US Cheticamp Beach at Cheticamp Island Road 2Stream crossing - CBSInformal assessmentHabitat confirmation (data deficient structures only)low flow, seasonally fish passage8b97c9bb-d9cb-4430-82b2-57c82530e500US Cheticamp Beach at Unknown TrailStream crossing - OBSInformal assessmentHabitat confirmation (data deficient structures only)No real road, trail system to bridge, in a decrepit state and is blocking most of the stream, seasonally fish passage2da131b1-4a52-419d-bce4-5380622c3dc3US Petit Etang Pond at LeBlanc RoadStream crossing - CBSInformal assessmentHabitat confirmation (data deficient structures only)Five separate corrugated steel spiral culverts, two of which not showing on the inlet side, and the other two are destroyed, largest is beginning to rot, seasonal fish passage39aa7f0e-8eb9-4883-9d39-41a673aa882eUS Redman Basin Brook 1 at Cheticamp Back Road 5Stream crossing - CBSInformal assessmentHabitat confirmation (data deficient structures only)concrete culvert, was joined, split off, two seperate inclines, closed bottom round concrete culvert, never fish passage9241b2d1-0a2c-4957-b67c-7a721c016493Unnamed Brook at Bashure RoadNoneInformal assessmentEngage with partnersno structure found, water source is at the end of a steep incline, no possibility of fish passage; will need to engage with partners to determine whether next steps are a habitat assessment upstream or confirm inaccessible upstream before updating model",
+    "crumbs": [
+      "Appendices",
+      "Appendix A - Structure List Status"
+    ]
+  },
+  {
+    "objectID": "content/appendix-a.html#excluded-structures",
+    "href": "content/appendix-a.html#excluded-structures",
+    "title": "Appendix A - Structure List Status",
+    "section": "Excluded Structures",
+    "text": "Excluded Structures\n\nTable 4. Structures in Cheticamp watershed that are excluded from\nfurther consideration in subsequent ranking and work planning because\nthe structure is not present, or is confirmed passable (e.g., bridge) or\nhas no habitat upstream for Atlantic Salmon.Barrier IDSite NameStructure TypeReason for ExclusionNotes2339875c-b859-47a0-8df0-89fba2398f2aUnnamed Brook at DrivewayStream crossing - CBSNo key upstream habitatStream is completely dry, never fish passage, upstream side wetland, agreed to take it off013e7742-2bd4-48e3-b8f2-c3856c6bbb75Unnamed Brook at Cabot Trail 5Stream crossing - OBSPassableOpen box culvert, stream is not dry during drought conditions, always passable964af25f-4619-4ba1-9ac2-7668e9f6225eUnnamed Brook at Cheticamp Back RoadStream crossing - CBSPassableClossed bottom circular concrete culvert. was installed 2024, headwall inlet degrated, always fish passage, culvert assessment done with Thomas Sweeney(NSSA) 2024874e346b-76bc-401a-b000-548157b8eba6Unnamed Brook at Cabot Trail 7Stream crossing - CBSPassableClosed bottom pipe arch culvert? with baffles for fish passage, not dried up during drought season, always passable69d3d251-68c5-42fe-9055-7f4b88a7b995Unnamed Brook at Cabot Trail 8Stream crossing - CBSPassableAlways passable, stream has flow, closed bottom pipe arch culvert with baffles for fish passagebe49b42f-7199-44e4-a4a8-6000a75da970Unnamed Brook at Cabot Trail 10Stream crossing - CBSPassableCircular concrete culvert with baffles, stream has water flow, always passagef34c4469-09ae-41e7-bcdb-6788b5e7307fRuisseau du Lac at Cabot TrailStream crossing - OBSPassableUpstream left bank armored, open bottom box with abutments, always fish passage12f20233-a156-4d66-beb6-f881d5e3c95bUnnamed Brook at Cabot Trail 11Stream crossing - OBSPassableLow water flow, always fish passage, open bottom box with abutments1b104792-21ed-44e8-89ab-dc2e02e19c3bUnnamed Brook at Unnamed Track 4Stream crossing - CBSPassableNewly installed concrete culvert, wetland up and downstream from culvert, always fish passage4f0df29d-8dff-4868-b6d7-aacd1f75f8f6Unnamed Brook at Cabot Trail 2Stream crossing - OBSPassableOpen bottom culvert with abutments , older bridge on downstream side, always fish passagecf517b59-1e8f-4a2b-bbe7-fcbe376139feMacIntosh Brook at Cabot TrailStream crossing - CBSPassablePark employee confirmed fish passage during trib-by-trib review; consider reassessing in 5 years (2030)a6d9c936-48a3-4442-8f84-76fdbc4bfab2Unnamed Brook at Driveway 4NoneNo structureCould not find inlet or outlet of culvert, heavily grown in, need to talk to landowner9241b2d1-0a2c-4957-b67c-7a721c016493Unnamed Brook at Bashure RoadNoneNo structureNo structure found, watersource is at the end of a steep incline (see picture), no possibility of fish passage06fa0cc5-7c41-4c13-97ba-45f07d10f433Unnamed Brook at Unnamed Road 3NoneNo structureStream digitized incorrectly, stream actually runs along road and does not cross the road at this location.",
+    "crumbs": [
+      "Appendices",
+      "Appendix A - Structure List Status"
+    ]
+  },
+  {
+    "objectID": "content/appendix-b.html",
+    "href": "content/appendix-b.html",
+    "title": "Appendix B - Partners and Detailed Methods",
+    "section": "",
+    "text": "Planning Team\nTable 5: Chéticamp WCRP planning team members. Planning team members\ncontributed to the development of this plan by participating in scoping\nand planning meetings, and reviewing documents and data.NameOrganizationJillian BakerCheticampRiver Salmon AssociationLuca KordsmeyerCheticampRiver Salmon AssociationAdam StewartCheticampRiver Salmon AssociationThomas SweenyNova Scotia Salmon AssociationFielding MontgomeryCanadian Wildlife FederationNick Mazany-WrightCanadian Wildlife FederationNicolas LapointeCanadian Wildlife FederationCourtney BrakeCanadian Wildlife FederationKris HunterAtlantic Salmon Federation",
+    "crumbs": [
+      "Appendices",
+      "Appendix B - Partners and Detailed Methods"
+    ]
+  },
+  {
+    "objectID": "content/appendix-b.html#partners",
+    "href": "content/appendix-b.html#partners",
+    "title": "Appendix B - Partners and Detailed Methods",
+    "section": "Partners",
+    "text": "Partners\n\n\nTable 6: Additional key actors in the Chéticamp River watershed. Key\nactors are the individuals, groups, and/or organizations, outside of the\nplanning team, with influence and relevant experience in the watershed,\nwhose engagement will be critical for the successful implementation of\nthis WCRP. Key actors were identified by the planning team and do not\nreflect a commitment to contribute to the implementation and updating of\nthis WCRP. Individual or Organization NameRole and Primary InterestNova Scotia Department of Public WorksLocal governmentdepartment that would be tasked with culvert replacement.Cape Breton Highlands National ParkSupport of field activities within theCheticampRiver watershedand permission to accesslocations within the park.",
+    "crumbs": [
+      "Appendices",
+      "Appendix B - Partners and Detailed Methods"
+    ]
+  },
+  {
+    "objectID": "content/appendix-b.html#detailed-methods",
+    "href": "content/appendix-b.html#detailed-methods",
+    "title": "Appendix B - Partners and Detailed Methods",
+    "section": "Detailed Methods",
+    "text": "Detailed Methods\nFor details about accessibility, habitat, or connectivity models including structure-ranking methods, see detailed documentation for NSFishPass here: NSFishPass GitHub",
+    "crumbs": [
+      "Appendices",
+      "Appendix B - Partners and Detailed Methods"
+    ]
+  }
+]

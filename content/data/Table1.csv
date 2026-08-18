@@ -1,0 +1,31 @@
+Barrier ID,Site Name,Watershed,Structure Status,Actual Weighted Gain Per Barrier,Average Weighted Gain Per Barrier,Structure Count Order by Model Rank
+87aefbb4-6d49-44d7-91ba-65f7447b13f5,Larkin's Pond,Naufrage River,Priority barrier,12.81,12.81,1
+0ffc5176-38c5-4ba6-8d90-4c58afd93025,Cow River culvert - Selkirk Rd,Cow River,Data-deficient barrier,3.43,3.43,2
+870159b1-13f3-4b0c-8822-8f8a3e602be5,NLC - stream crossing 2,North Lake Creek,Priority barrier,2.04,2.04,3
+58516e7c-4461-4730-9c00-dd3bd40ea830,NLC Culvert DS of Millers Dam,North Lake Creek,Priority barrier,1.35,1.35,4
+f2493a98-0972-4bcc-8b22-aa160d4f499a,Bear River - unknown trail,Bear River,Unassessed,3.01,1.97,5
+41e9d2e6-5336-4e92-a4a1-179548a7c4ff,Bear River culvert - Mickle Macum,Bear River,Priority barrier,3.46,1.97,5
+02e35677-fc78-4d5e-9793-dfd0622bc7a2,Bear River beach,Bear River,Priority barrier,0.57,1.97,5
+59f2c06b-e33f-4a36-910b-3aa5226f575f,Bermuda Triangle,Bear River,Priority barrier,0.85,1.97,5
+a1822ead-01a4-4c4f-acdc-f2a0f8542ee1,Cross River - Souris Line Rd,Cross River,Priority barrier,1.91,1.91,6
+bb794469-512f-4292-90ac-6ed41b0bf44d,Cow River - Goose River Rd,Cow River,Unassessed,2.81,2.81,7
+3b3d63a5-cfd9-4335-bc64-e7fad5accb13,Cross River - Big Pond Rd,Cross River,Unassessed,0.00,0.65,8
+ec316daa-0c45-4a81-af5e-aaeca8698e71,Cross River - DS Big Pond Rd,Cross River,Unassessed,1.30,0.65,8
+5aae28f8-b6f0-4689-9fb1-5660049ae180,Naufrage - trail DS Line of Lot Rd,Naufrage River,Unassessed,1.15,0.76,9
+95e0201d-24af-4a37-9c2c-c9bcdaf91592,Naufrage - stream crossing 3,Naufrage River,Priority barrier,0.38,0.76,9
+95e0201d-24af-4a37-9c2c-c9bcdaf91592,Naufrage - Church Rd,Naufrage River,Data-deficient barrier,0.38,0.76,9
+7e152413-a406-417e-8e70-c1fa88fd362e,NLC - Confederation Trail 1,North Lake Creek,Unassessed,0.65,0.65,10
+4c8acb95-c642-424f-a726-c10c6ef7a78b,NLC - DS Confederation Trail,North Lake Creek,Unassessed,1.00,0.65,10
+7b14a710-4cf6-454e-a41d-32333f16cb75,NLC - stream crossing 4,North Lake Creek,Data-deficient barrier,0.30,0.65,10
+a9dbc6a0-8045-44f9-95b4-e06a3cdcef25,NLC - Confederation Trail 2,North Lake Creek,Unassessed,0.68,0.68,11
+09998a55-9cd7-41f7-ac31-183c06db5363,Naufrage - Northside Rd,Naufrage River,Unassessed,0.76,0.76,12
+30e09db0-2ec3-4e8a-93ae-a9cc91c077de,Naufrage - Lot of Line Rd,Naufrage River,Unassessed,1.15,1.15,13
+e283c39b-61d5-4dae-a482-a77802460978,Cow River - Barry Rd,Cow River,Unassessed,0.91,0.91,14
+ad11b301-08b8-4347-bd3f-a51dfe3fd2e4,Naufrage - St. Charles Rd,Naufrage River,Unassessed,0.56,0.56,15
+48cd8ad2-bc5e-4c57-8e2a-63345d4970d3,Bear River - trail off St. Charles Rd,Bear River,Unassessed,0.72,0.72,16
+dad1493b-77a1-4286-ad1a-3c776a04e452,Priest Pond - New Harmony Rd,Priest Pond Creek,Unassessed,0.09,0.42,17
+62918152-9635-4126-b3bc-69fe2111e39e,Dixon Dam,Priest Pond Creek,Unassessed,0.76,0.42,17
+725098ed-d8b1-43c8-ad97-733053def898,Cross River - trail off New Zealand Rd,Cross River,Unassessed,0.40,0.35,18
+ded98fa3-8da5-43bb-8727-671928043e1a,Cross River - trail 2 off New Zealand Rd,Cross River,Unassessed,0.29,0.35,18
+38ae2829-6502-4881-8ca7-107be5cec4a4,Cross River - Souris Line Rd 3,Cross River,Unassessed,0.43,0.43,19
+12bf33df-e292-4171-8c4b-ec5a8005786f,Naufrage - stream crossing 1,Naufrage River,Priority barrier,0.38,0.38,20

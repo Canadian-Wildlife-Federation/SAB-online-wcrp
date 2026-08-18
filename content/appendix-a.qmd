@@ -1,0 +1,39 @@
+# Appendix A - Structure List Status {-}
+
+## Non-actionable Barriers {-}
+
+No non-actionable barriers were identified through the implementation of this WCRP as of July 2026 
+
+## Data-deficient Barriers {-}
+
+```{r}
+#| label: table-9
+#| tbl-cap: "Table 9: Structures in NE PEI watersheds that have been assessed for fish passage for Atlantic Salmon, American Eel, and Rainbow Smelt as of July 2026, but either require an additional in-depth fish-passage assessment to confirm the passability status or a habitat assessment to confirm upstream habitat values."
+#| echo: false
+#| results: asis
+#| warning: false
+source("Rscripts/table_formatting.R")
+library("flextable")
+
+data <- read.csv("data/Table9.csv", check.names = FALSE)
+ft <- flextable(data)
+ft <- format_flextable(ft)
+ft
+```
+
+## Excluded Structures {-}
+
+```{r}
+#| label: table-10
+#| tbl-cap: "Table 10: Structures in NE PEI watersheds that are excluded from further consideration in subsequent ranking and work planning because the structure is not present, is confirmed passable (e.g., bridge), or has no habitat upstream for Atlantic Salmon, American Eel, and Rainbow Smelt."
+#| warning: false
+#| echo: false
+#| results: asis
+source("Rscripts/table_formatting.R")
+library("flextable")
+
+data <- read.csv("data/Table10.csv", check.names = FALSE)
+ft <- flextable(data)
+ft <- format_flextable(ft)
+ft
+```

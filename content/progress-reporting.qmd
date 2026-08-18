@@ -1,0 +1,76 @@
+# Progress Reporting {-}
+
+## Progress Summary {-}
+
+This WCRP was initiated in 2023. Several planning meetings have taken place since then, including full day workshops hosted by SAB and CWF, using the Conservation Standards to identify major threats to freshwater connectivity and potential strategies to address them. After project scoping was completed, SAB, CWF, and ASF conducted several connectivity assessments. Since 2023, the passability of X structures has been assessed, and further habitat assessments were completed at X of these. Fish passage has been rehabilitated at X barriers resulting in improved or restored access to X km of habitat. Between March 2023-24, the over widened, shallow barrier beach on Bear River was temporarily addressed by recreating a narrowed access channel and deeper thalweg with meandering rocks, with the goal of improving access for the 2023 fall Atlantic Salmon run. In 2024, in partnership with the ASF, an old, damaged bridge that was catching debris and creating a blockage in Mill Creek, North Lake Creek watershed, was completely removed, the road was decommissioned and the riparian zone was replanted with native trees and shrubs [(Fish are swimming a bit easier in this P.E.I. creek thanks to bridge structure removal | CBC News)](https://www.cbc.ca/news/canada/prince-edward-island/pei-bridge-removed-improved-fish-passage-1.7280811). Further, a public information meeting was held in January 2024, to address concerns around Hay River barrier beach and upstream Johnston’s Pond.  Presentations were made by SAB, Ducks Unlimited, The PEI Department of Environment, Energy and Climate Action’s Forests, Fish and Wildlife Division, the University of Prince Edward Island Climate Lab and CBCL Coastal Engineer Vincent Leys.  Topics included the history of the structures, ongoing management of the impoundment, and projected erosion and coastal processes under climate change. 
+
+
+## Rehabilitated Barriers {-}
+
+```{r}
+#| label: table-5
+#| tbl-cap: "Table 5: Barriers in the NE PEI watersheds that have been addressed (either through removal, replacement, or modification to improve passage) as of July 2026. Habitat gain represents the amount (km) of weighted upstream habitat that was reconnected by these projects for Atlantic Salmon, American Eel, and Rainbow Smelt."
+#| echo: false
+#| results: asis
+#| warning: false
+source("Rscripts/table_formatting.R")
+library("flextable")
+
+data <- read.csv("data/Table5.csv", check.names = FALSE)
+ft <- flextable(data)
+ft <- format_flextable(ft)
+ft
+```
+
+## Annual Progress Report {-}
+
+Since February 2025, the following actions were completed:
+
+- Barrier assessments were completed for 5 structures, resulting in 2 structures confirmed as barriers. The remaining structures were dry at the time of assessment and will require follow up.  
+
+- Six previously assessed structures were visited in the summer to confirm their condition and determine relative priorities and next steps. 
+
+- A follow-up Rapid Geomorphic Assessment was completed at the Old Mill creek bridge in North Lake Creek watershed that was removed in 2024, to assess fish passage post-rehabilitation. Atlantic Salmon redds were confirmed upstream of the site. 
+
+- Hay River culvert and fish ladder downstream of Johnson’s Pond was removed and replaced with a fish passable bridge. 
+
+- The connectivity models were updated based on the above actions, and outputs were incorporated into this WCRP. 
+
+- Bear River access channel was monitored bi-weekly throughout the summer. 
+
+- Five priority barriers were identified and provided to the PEI Department of Transportation and Infrastructure.  
+
+- A bathymetric survey was conducted in Larkins Pond to assess the amount of sediment accumulation in the reservoir since the dam construction and determine potential next steps to addressing passage at the denil fish ladder. 
+
+## Priority Barriers {-}
+
+```{r}
+#| label: table-6
+#| tbl-cap: "Table 6: Structures in the NE PEI watersheds that are confirmed as barriers to fish passage for Atlantic Salmon and American Eel with confirmed habitat upstream, as of July 2026. Passability status represents the proportion of individuals (0, 0.25, 0.5, 0.75) that can pass upstream of a structure. Habitat gain represents the amount (km) of weighted habitat upstream of that barrier to the next structure that will be reconnected if that barrier is addressed. The number of structures in a set represents the number of structures that must be addressed concurrently to maximize habitat connectivity."
+#| echo: false
+#| results: asis
+#| warning: false
+source("Rscripts/table_formatting.R")
+library("flextable")
+
+data <- read.csv("data/Table6.csv", check.names = FALSE)
+ft <- flextable(data)
+ft <- format_flextable(ft)
+ft
+```
+
+Table 7: Structures in the NE PEI watersheds that are confirmed as barriers to fish passage for Rainbow Smelt with confirmed habitat upstream, as of July 2026. Passability status represents the proportion of individuals (0, 0.25, 0.5, 0.75) that can pass upstream of a structure. Habitat gain represents the amount (km) of weighted habitat upstream of that barrier to the next structure that will be reconnected if that barrier is addressed. The number of structures in a set represents the number of structures that must be addressed concurrently to maximize habitat connectivity. 
+```{r}
+#| label: table-7
+#| tbl-cap: "Table 7: Structures in the NE PEI watersheds that are confirmed as barriers to fish passage for Rainbow Smelt with confirmed habitat upstream, as of July 2026. Passability status represents the proportion of individuals (0, 0.25, 0.5, 0.75) that can pass upstream of a structure. Habitat gain represents the amount (km) of weighted habitat upstream of that barrier to the next structure that will be reconnected if that barrier is addressed. The number of structures in a set represents the number of structures that must be addressed concurrently to maximize habitat connectivity. "
+#| echo: false
+#| results: asis
+#| warning: false
+source("Rscripts/table_formatting.R")
+library("flextable")
+
+data <- read.csv("data/Table7.csv", check.names = FALSE)
+ft <- flextable(data)
+ft <- format_flextable(ft)
+ft
+```

@@ -1,0 +1,20 @@
+# Appendix B - Partners and Detailed Methods {-}
+
+## Partners {-}
+```{r}
+#| label: table-11
+#| tbl-cap: "Table 11: Northeastern PEI WCRP primary and secondary planning team members. All planning team members contributed to the development of this plan by participating in scoping and planning meetings, and primary team members reviewed data and written reports. "
+#| echo: false
+#| warning: false
+source("Rscripts/table_formatting.R")
+data <- read.csv("data/Table11.csv", check.names = FALSE)
+ft <- flextable(data)
+ft <- format_flextable(ft)
+ft
+```
+
+
+
+## Detailed Methods {-}
+
+For details about accessibility, habitat, or connectivity models including structure-ranking methods, see detailed documentation for PEIFishPass here: [PEIFishPass Github](https://github.com/Canadian-Wildlife-Federation/peifishpass). 

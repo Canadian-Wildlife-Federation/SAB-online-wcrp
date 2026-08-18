@@ -1,0 +1,24 @@
+# Introduction {-}
+
+## Purpose{-}
+
+The purpose of the Northeastern PEI Watershed Connectivity Restoration Plan (WCRP) is to improve understanding of habitat connectivity for Atlantic Salmon, American Eel, and Rainbow Smelt in the North Lake Creek, Priest Pond Creek, Cross River, Hay River, Bear River, Naufrage River, and Cow River and inform efforts to close knowledge gaps and plan and prioritize field assessments and restoration. 
+
+Local data and knowledge are combined with connectivity modelling to estimate current connectivity status and identify structures that potentially block the most habitat. This informs the prioritization of field assessments to close the most significant knowledge gaps efficiently. Information from field assessments of barrier status and habitat condition are incorporated into the model, improving understanding of which barriers block the most habitat. 
+
+This information is also used to inform and plan restoration efforts. Structure rankings inform restoration prioritization by summarizing what is known about fragmentation and showing the relative amount of habitat upstream of each barrier. Actual prioritization of restoration activities is a social decision that requires additional information, including the quality and condition of upstream habitat, the cultural importance of different areas within the watershed, and the costs and logistics of addressing each barrier relative to the ecological benefits of doing so.  
+
+As knowledge gaps are closed and barriers are addressed, this plan is revised to summarize progress and provide updated estimates of connectivity status and the status and relative importance of remaining structures. 
+
+
+## Scope {-}
+
+This WCRP focuses on habitat connectivity for Atlantic Salmon, American Eel, and Rainbow Smelt in the North Lake Creek, Priest Pond Creek, Cross River, Hay River, Bear River, Naufrage River, and Cow River watersheds (Figure 9). All seven watersheds are locally important salmon watersheds, in which the Souris and Area Branch of the PEI Wildlife Federation regularly conduct species monitoring and habitat restoration. Areas of high, sustained beaver activity that has led to long-term changes in the habitat conditions were excluded from the salmon model due to the unfavorable conditions for barrier rehabilitation. The spatial extent of the naturally accessible waterbodies layer was then refined based on existing fish observation data or redd surveys (for Atlantic Salmon). 
+
+A unique model is run for each species, to reflect their differences in accessibility and habitat-specific needs. Model outputs include an estimate of the current connectivity status along with structure ranks and counts. The connectivity status, structure ranks and counts, and maps are presented for all seven watersheds together to allow for a comprehensive understanding of aquatic connectivity across all seven salmon watersheds.  
+
+Connectivity models in this WCRP focus on longitudinal habitat fragmentation by anthropogenic structures, including all types of dams and stream crossings. Natural barriers that could be managed to increase fish passage (i.e., barrier beaches) are included as structures in connectivity models. There are five barrier beaches at the mouths of Priest Pond Creek, Cross River, Hay River, Bear River, and Cow River. The stability of barrier beaches, and therefore, passability for anadromous species, can depend on factors such as excessive or diminished sediment supply, rising sea levels resulting in washouts, and high rates of landward migration or fragmentation (Forbes, Taylor, Shaw, Carter, & Orford (1990)). Additionally, human-made modifications of these systems (e.g., rock piles and culverts/fish ladders) enable further widening and shortening of the estuary, the creation of upstream reservoirs, and homogenization of stream characteristics, making these systems more susceptible to instability and blocking fish passage.  
+
+Diffuse natural barriers that make entire areas impassible are not included in the models but may be used to define the scope of this WCRP. For example, a tributary that is inhospitable because of increased water temperature may be excluded from the overall spatial scope of the WCRP because restoration needs there are broader than connectivity. 
+
+Figure 9: Map of the geographic scope of this connectivity restoration plan for Atlantic Salmon, American Eel, and Rainbow Smelt in the NE PEI watersheds in PEI.
