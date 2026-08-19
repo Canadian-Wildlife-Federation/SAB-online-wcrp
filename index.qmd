@@ -35,13 +35,13 @@ further_field_assessment = get_structure_count_value(
 
 The purpose of the Northeastern PEI Watershed Connectivity Restoration Plan (WCRP) is to improve understanding of habitat connectivity for Atlantic Salmon (*Salmo salar*), American Eel (*Anguilla rostrata*), and Rainbow Smelt (*Osmerus mordax*) in the North Lake Creek, Priest Pond Creek, Cross River, Hay River, Bear River, Naufrage River, and Cow River, herein referred to as the NE PEI watersheds, and inform efforts to close knowledge gaps and plan and prioritize restoration. Local data and knowledge are combined with connectivity modelling to estimate current connectivity status and identify structures that potentially block the most habitat. This informs the prioritization of field assessments to close the most significant knowledge gaps efficiently. Information from field assessments of barrier status and habitat condition are incorporated into the model, improving understanding of which barriers block the most habitat, and informing restoration prioritization. As knowledge gaps are closed and barriers are addressed, this plan will be revised to summarize progress and provide updated estimates of connectivity status and the status and relative importance of remaining structures. 
 
-In the NE PEI watersheds, X km of Atlantic Salmon habitat are currently connected to the ocean and X km are disconnected from it. This means that X% of the X km of total salmon habitat is connected. 
+In the NE PEI watersheds, 103.74 km of Atlantic Salmon habitat are currently connected to the ocean and 98.37 km are disconnected from it. This means that 51.34% of the 202.11 km of total salmon habitat is connected. 
 
-In the NE PEI watersheds, X km of American Eel habitat are currently connected to the ocean and X km are disconnected from it. This means that X% of the X km of total eel habitat is connected. 
+In the NE PEI watersheds, 43.04 km of American Eel habitat are currently connected to the ocean and 132.77 km are disconnected from it. This means that 24.48% of the 176.80 km of total eel habitat is connected. 
 
 In the NE PEI watersheds, X km of Rainbow Smelt habitat are currently connected to the ocean and X km are disconnected from it. This means that X% of the X km of total smelt habitat is connected. 
 
-In the NE PEI watersheds, X structures potentially disconnect Atlantic Salmon and American Eel habitat. Of these, X are identified as barriers in need of rehabilitation (priority barriers), X are identified as barriers that do not warrant rehabilitation (non-actionable), and X require further field assessment. 
+In the NE PEI watersheds, X structures potentially disconnect Atlantic Salmon and American Eel habitat. Of these, 10 are identified as barriers in need of rehabilitation (priority barriers), 0 are identified as barriers that do not warrant rehabilitation (non-actionable), and 4 require further field assessment. 
 
 In the NE PEI watersheds, X structures potentially disconnect Rainbow Smelt. Of these, X are identified as barriers in need of rehabilitation (priority barriers), X are identified as barriers that do not warrant rehabilitation (non-actionable), and X require further field assessment. 
 

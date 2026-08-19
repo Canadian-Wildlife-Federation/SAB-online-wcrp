@@ -66,11 +66,11 @@ Table 7: Structures in the NE PEI watersheds that are confirmed as barriers to f
 #| echo: false
 #| results: asis
 #| warning: false
-source("Rscripts/table_formatting.R")
-library("flextable")
+#source("Rscripts/table_formatting.R")
+#library("flextable")
 
-data <- read.csv("data/Table7.csv", check.names = FALSE)
-ft <- flextable(data)
-ft <- format_flextable(ft)
-ft
+#data <- read.csv("data/Table7.csv", check.names = FALSE)
+#ft <- flextable(data)
+#ft <- format_flextable(ft)
+#ft
 ```

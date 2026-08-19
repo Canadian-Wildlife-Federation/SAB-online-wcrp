@@ -26,11 +26,11 @@ Table 4: Implementation plan for 2026 to close knowledge gaps and advance barrie
 #| echo: false
 #| results: asis
 #| warning: false
-source("Rscripts/table_formatting.R")
-library("flextable")
+#source("Rscripts/table_formatting.R")
+#library("flextable")
 
-data <- read.csv("data/Table4.csv", check.names = FALSE)
-ft <- flextable(data)
-ft <- format_flextable(ft)
-ft
+#data <- read.csv("data/Table4.csv", check.names = FALSE)
+#ft <- flextable(data)
+#ft <- format_flextable(ft)
+#ft
 ```
