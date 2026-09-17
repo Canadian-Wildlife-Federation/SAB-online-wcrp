@@ -21,4 +21,4 @@ Connectivity models in this WCRP focus on longitudinal habitat fragmentation by 
 
 Diffuse natural barriers that make entire areas impassible are not included in the models but may be used to define the scope of this WCRP. For example, a tributary that is inhospitable because of increased water temperature may be excluded from the overall spatial scope of the WCRP because restoration needs there are broader than connectivity. 
 
-!["Figure 9: Map of the geographic scope of this connectivity restoration plan for Atlantic Salmon, American Eel, and Rainbow Smelt in the NE PEI watersheds in PEI."](content/images/Figure3.png)
+!["Figure 9: Map of the geographic scope of this connectivity restoration plan for Atlantic Salmon, American Eel, and Rainbow Smelt in the NE PEI watersheds in PEI."](images/Figure3.png)
