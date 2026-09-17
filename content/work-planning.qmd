@@ -19,18 +19,32 @@ Model ranks provide only limited information on the relative value of rehabilita
 
 ## Workplan {-}
 
-Table 4: Implementation plan for 2026 to close knowledge gaps and advance barrier rehabilitation to improve connectivity for Atlantic Salmon, American Eel, and Rainbow Smelt in the NE PEI watersheds. Steps to incorporate field data, update models, and revise this WCRP are also included. 
 ```{r}
-#| label: table-4
+#| label: table-4a
 #| tbl-cap: "Table 4: Implementation plan for 2026 to close knowledge gaps and advance barrier rehabilitation to improve connectivity for Atlantic Salmon, American Eel, and Rainbow Smelt in the NE PEI watersheds. Steps to incorporate field data, update models, and revise this WCRP are also included. "
 #| echo: false
 #| results: asis
 #| warning: false
-#source("Rscripts/table_formatting.R")
-#library("flextable")
+source("Rscripts/table_formatting.R")
+library("flextable")
 
-#data <- read.csv("data/Table4.csv", check.names = FALSE)
-#ft <- flextable(data)
-#ft <- format_flextable(ft)
-#ft
+data <- read.csv("data/Table4a.csv", check.names = FALSE)
+ft <- flextable(data)
+ft <- format_flextable(ft)
+ft
+```
+
+```{r}
+#| label: table-4b
+#| tbl-cap: ""
+#| echo: false
+#| results: asis
+#| warning: false
+source("Rscripts/table_formatting.R")
+library("flextable")
+
+data <- read.csv("data/Table4b.csv", check.names = FALSE)
+ft <- flextable(data)
+ft <- format_flextable(ft)
+ft
 ```
