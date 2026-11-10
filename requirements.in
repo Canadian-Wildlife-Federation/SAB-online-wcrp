@@ -1,0 +1,8 @@
+# Direct dependencies for Quarto's Python engine and the project's API helpers.
+# Compile into requirements.txt inside the Linux toolchain; see maintenance docs.
+ipykernel
+nbclient
+nbformat
+PyYAML
+pandas
+requests

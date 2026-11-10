@@ -49,3 +49,13 @@ po/*~
 rsconnect/
 
 /.quarto/
+
+# Local Python environments and bytecode (existing tracked files need cleanup).
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local validation logs and disposable build output.
+/.build-validation/
+
+**/*.quarto_ipynb

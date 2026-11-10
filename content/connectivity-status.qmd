@@ -8,6 +8,9 @@ library(reticulate)
 ```{python}
 #| echo: false
 #| output: false
+#| eval: false
+# Temporarily disabled: PEI API integration is broken. These variables are not
+# used in the displayed book. Re-enable after the correct PEI endpoint is tested.
 import sys
 from pathlib import Path
 

@@ -1,0 +1,27 @@
+services:
+  book:
+    image: sab-wcrp-renderer:local
+    platform: linux/amd64
+    build:
+      context: .
+      target: renderer
+    working_dir: /project
+    volumes:
+      - .:/project
+    # Hide host-installed environments and use a fresh Quarto cache each run.
+    tmpfs:
+      - /project/renv/library
+      - /project/renv/python
+      - /project/renv/staging
+      - /project/.quarto
+    command: ["quarto", "render", "--no-cache"]
+
+  preview:
+    image: sab-wcrp-renderer:local
+    platform: linux/amd64
+    working_dir: /project
+    volumes:
+      - .:/project:ro
+    ports:
+      - "127.0.0.1:8000:8000"
+    command: ["python", "-m", "http.server", "8000", "--bind", "0.0.0.0", "--directory", "_book"]

@@ -74,7 +74,7 @@
     "href": "content/data-methods.html",
     "title": "Methods",
     "section": "",
-    "text": "Accessibility model\nNaturally accessible waterbodies are those that would likely be accessible to focal species if no human-made barriers existed on the landscape. This is treated as a proxy baseline for the historic distribution. Naturally accessible waterbodies were identified based on natural barriers (i.e., waterfalls, or steep stream gradients) that would naturally limit upstream movement. Modelled natural barriers were excluded if focal species observations existed upstream of them.",
+    "text": "Accessibility model\nConnectivity models were produced using PEIFishPass, an open-source freshwater connectivity modelling framework, which combines provincial spatial layers with WCRP-specific data tables and includes two sub-models:\nNaturally accessible waterbodies are those that would likely be accessible to focal species if no human-made barriers existed on the landscape. This is treated as a proxy baseline for the historic distribution. Naturally accessible waterbodies were identified based on natural barriers (i.e., waterfalls, or steep stream gradients) that would naturally limit upstream movement. Modelled natural barriers were excluded if focal species observations existed upstream of them.",
     "crumbs": [
       "Methods"
     ]

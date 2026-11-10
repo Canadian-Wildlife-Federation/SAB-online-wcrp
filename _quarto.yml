@@ -1,6 +1,11 @@
 project:
   type: book
   output-dir: _book
+  # Limit discovery to book sources; do not scan local R/Python environments.
+  render:
+    - index.qmd
+    - content/*.qmd
+    - "!content/version-history.qmd"
 
 book:
   title: "Northeastern PEI Watershed Connectivity Restoration Plan "
@@ -20,7 +25,7 @@ book:
   
   sidebar: 
     pinned: true
-    logo: images/logo.png
+    logo: content/images/logo.png
     tools: 
       - icon: save
 
@@ -43,8 +48,9 @@ format:
 
 #jupyter: "local-venv"
 
-# execute:
-#   cache: true
+execute:
+  cache: false
+  freeze: false
 
 #titlepage-bg-image: images/spawn.jpg
 

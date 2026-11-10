@@ -1,0 +1,7 @@
+# The image contains tools and locked libraries; source is mounted at runtime.
+**
+!Dockerfile
+!docker/
+docker/*
+!docker/requirements.lock.txt
+!renv.lock

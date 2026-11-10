@@ -1,33 +1,72 @@
-# Template WCRP
-This repository is built and maintained by the Canadian Wildlife Federation (CWF). The repository contains a jupyter book and a Quarto book used for the live reporting of the WCRP.
+﻿# Northeastern PEI Watershed Connectivity Restoration Plan
 
-## Anaconda Prompt
-One may want to use a virtual environment with python version 3.8-3.11 installed.
-Does not run locally with python version 3.12 or higher
+This Canadian Wildlife Federation project publishes a **Quarto book**. Edit the
+source, render locally, review, and push the source **and `_book/`** to GitHub.
+Netlify publishes the committed HTML.
 
-## File structure
-In order to change text within the **jupyter book**. only the .md files need to be changed.
+The Docker build and all ten chapters have been validated locally. Visual review
+and the first Netlify deployment remain user steps; see the
+[validation record](maintenance/CHANGELOG.md).
 
-For the quarto book, the .qmd files and their text should be updated after pulling the GitHub repo. 
+## Build and review
 
-## Quarto Book
-To run this locally:
+### From RStudio
 
-Clone the repo locally
+Start Docker Desktop with Linux containers, open `sab-quarto.Rproj`, and save your
+content edits. In RStudio's **Console**, run:
 
-Open watershed-quarto.Rproj in rstudio or IDE of choice
+```r
+source("scripts/preview.R")
+```
 
-In the console, use renv::restore() to download dependencies
+The helper prepares Docker when needed, renders and checks the book, and opens
+<http://localhost:8000>. Run the same command again after saving further edits.
+You can also open `scripts/preview.R` and click **Source**. Use this helper instead
+of RStudio's normal Render/Preview buttons, which use local software.
 
-Render book (in build tab of rstudio) to run locally
+To stop the background preview:
 
-## Extra info
- - Download quarto for your local machine: https://quarto.org/docs/download/. For more specific information on Quarto please refer to the documentation site: https://quarto.org/docs/guide/. 
- - After choosing your prefered method for rendering the quarto book (i.e., RStudio https://quarto.org/docs/tools/rstudio.html, VS Code https://quarto.org/docs/tools/vscode.html, the command line interface (CLI) of your choosing), clone this GitHub repo and open the folder in the IDE.
- - Because of the python and R code chunks within the qmd files, the environment (in the repo as '_environment') to which the rederer points to when running python code among R code must be updated so that it reflects the Python executable on your local machine (the python.exe file). ![image](https://github.com/Canadian-Wildlife-Federation/Horsefly-WCRP/assets/108288081/8d47e62a-7706-4300-8717-d99b14c2df58)
-For the libraries to work properly, it is recommended to install a "virtual environment" in python on your local machine. Find a useful resource for creating a virtual environment in python here: https://docs.python.org/3/library/venv.html.
- - Change the text within the qmd files to reflect the information for the watershed you wish to make an WCRP for. Additionally, change the code in the API calls to reflect the watershed. For example, 'http://159.89.114.239:9002/functions/postgisftw.wcrp_barrier_extent/items.json?watershed_group_code=HORS&barrier_type=' for the Horsefly becomes 'http://159.89.114.239:9002/functions/postgisftw.wcrp_barrier_extent/items.json?watershed_group_code=BULK&barrier_type=' for the Bulkley.
- - In order to reflect new API changes that alter habitat numbers within your watershed, your repo must be first cloned, then the quarto book should be rendered before pushing the changes back to GitHub.
- - In order to change text within the document, look through the .qmd files and find the one you wish to alter. Be careful not to change the "@" labels as they point to specific tables that are cross referenced within the document. See [here](https://www.markdownguide.org/basic-syntax/) for more info on how to make certain syntax changes within .qmd files.
+```r
+source("scripts/stop-preview.R")
+```
 
+The helper needs only base R on the host. Opening the project no longer activates
+a local renv environment automatically. See the [RStudio guide](maintenance/CONTENT-UPDATES.md#using-rstudio-recommended-for-rstudio-users).
 
+### From a terminal
+
+Start Docker Desktop with Linux containers. Open PowerShell in this folder:
+
+```powershell
+docker compose build book
+docker compose run --rm book
+docker compose up preview
+```
+
+Open <http://localhost:8000>. Stop preview with Ctrl+C, then `docker compose down`.
+Build the image on first setup and after dependency changes; text edits only need
+rendering. Local R, Python, Quarto, and RStudio versions are not used by these commands.
+
+## Content sources
+
+| Content | Source |
+| --- | --- |
+| Executive summary | `index.qmd` |
+| Chapters/appendices | `content/*.qmd` listed in `_quarto.yml` |
+| Tables | `content/data/Table*.csv` |
+| Maps/figures | `content/images/` |
+| References | `references.bib` |
+| Navigation/settings | `_quarto.yml` |
+| Table formatting | `content/Rscripts/table_formatting.R` |
+
+Do not edit `_book/` directly. Notebook copies and `summary/` are not sources for
+the configured book. Tracking spreadsheets do not automatically update the CSVs.
+
+The broken PEI API integration is temporarily disabled. Its unused chunks do not
+supply the currently displayed figures. Once repaired, APIs should refresh on each
+render; caching/freezing are disabled.
+
+Read the [content update guide](maintenance/CONTENT-UPDATES.md),
+[container maintenance guide](maintenance/CONTAINER.md),
+[project assessment](maintenance/PROJECT-ASSESSMENT.md), and
+[change log](maintenance/CHANGELOG.md).

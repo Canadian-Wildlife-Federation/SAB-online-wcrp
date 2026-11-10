@@ -1,2 +1,5 @@
 [build]
-    environment = { PYTHON_VERSION = "3.11" }
+    # Quarto is rendered locally in Docker; Git contains the finished website.
+    base = "."
+    publish = "_book"
+    command = "test -f _book/index.html"
